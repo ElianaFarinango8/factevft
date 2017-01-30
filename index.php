@@ -20,9 +20,6 @@ session_start();
             </div>
             <div class="row">
                 <a class="btn btn-success" href="../controller/controller.php?opcion=listar_clientes">Clientes</a>
-                <a class="btn btn-success" href="../controller/controller.php?opcion=listar_productos">Productos</a>
-                <a class="btn btn-success" href="../controller/controller.php?opcion=listar_facturas">Lista de facturas</a>
-                <a class="btn btn-success" href="../controller/controller.php?opcion=nueva_factura">Nueva factura</a>
             </div>
         </div>
     </body>
